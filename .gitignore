@@ -20,3 +20,10 @@ priv/
 vault.key
 my_creds.py
 profile.log
+# Local .terraform directories
+**/.terraform/*
+# basic gitignore
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
